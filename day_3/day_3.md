@@ -72,4 +72,4 @@ using clustering algorithm(PCA),
  eg: robotics/self driving cars
  
 ## Tomorrow:-
-types of ml ny how the model learns over times (batch /online learning ) 
+types of ml on how the model learns over times (batch /online learning ) 
